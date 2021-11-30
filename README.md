@@ -1,2 +1,2 @@
 # CN-Lab
-This is a repository created by SNACHIT PATIDAR for uploading Computer Networking Lab work files.
+This is a repository created by SANCHIT PATIDAR for uploading Computer Networking Lab work files.
